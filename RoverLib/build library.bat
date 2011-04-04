@@ -1,0 +1,2 @@
+avr-ar rcs libroverarduino.a AFMotor.o cplusplushelper.o EEPROM.o HardwareSerial.o pins_arduino.o Print.o Tone.o twi.o WInterrupts.o Wire.o wiring.o wiring_analog.o wiring_digital.o wiring_pulse.o wiring_shift.o WMath.o WString.o
+pause
